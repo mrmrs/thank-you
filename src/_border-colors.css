@@ -55,6 +55,8 @@
 
 */
 
+.b--light-blue { border-color: #78A2F6; }
+
 .b--black {        border-color: var(--black); }
 .b--near-black {   border-color: var(--near-black); }
 .b--dark-gray {    border-color: var(--dark-gray); }

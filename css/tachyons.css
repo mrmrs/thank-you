@@ -310,6 +310,7 @@ input[type="email"], input[type="url"], input[type="password"], .border-box { bo
    BORDER COLORS
 
 */
+.b--light-blue { border-color: #78A2F6; }
 .b--black { border-color: #000; }
 .b--near-black { border-color: #111; }
 .b--dark-gray { border-color: #333; }
@@ -770,7 +771,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
    SKINS
 
 */
-.bg-mint { background-color: #92EBCD; }
+.bg-mint { background-color: #befff1; }
 /* Text colors */
 .black-90 { color: rgba( 0, 0, 0, .9 ); }
 .black-80 { color: rgba( 0, 0, 0, .8 ); }
